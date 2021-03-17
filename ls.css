@@ -1,0 +1,7 @@
+.KR, .SP , .TK, .FIRST {
+    display: none;
+}
+
+.showing {
+    display: initial;
+}
